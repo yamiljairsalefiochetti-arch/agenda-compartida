@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068127974745",
+    "project_id": "agenda-compartida-6c5d0",
+    "storage_bucket": "agenda-compartida-6c5d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068127974745:android:07944387e50a14fea9c848",
+        "android_client_info": {
+          "package_name": "timi.code.agenda_compartida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068127974745-3v3gkdsme86i06d1o003n6apm8rdv5vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxV0xXLl_c7jHRxUJ144jEG2QokTBNhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068127974745-3v3gkdsme86i06d1o003n6apm8rdv5vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
